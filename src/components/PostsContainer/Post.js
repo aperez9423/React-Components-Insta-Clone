@@ -11,7 +11,7 @@ const Post = props => {
   // set up state for the likes
   const [points, setPoints] = useState(props.post.likes)
   const incrementPoints= () => {
-    setPoints(points + 1);
+    setPoints(points);
   }
   return (
     <div className="post-border">
