@@ -44,6 +44,31 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "pandaseyes",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'MomsReach!.jpg',
+        likes: 850,
+        timestamp: "July 15th 2017, 03:12:09 pm",
+        comments: [
+            {
+                username: "pandaseyes",
+                text: "Just within reach..."
+            },
+            {
+                username: "ryansteph",
+                text: "Too cute!"
+            },
+            {
+                username: "moscontagiouslaughter",
+                text: "That's my girl!"
+            },
+            {
+                username: "phoneixfeathers",
+                text: "Love it!"
+            }
+        ]
     }
 ];
 
